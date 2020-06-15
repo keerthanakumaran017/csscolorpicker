@@ -34,7 +34,7 @@ const cl2=["#ffa500","#f0f8ff","#faebd7","#7fffd4","#f0ffff","#f5f5dc",
       <div id="head" className="row height-150px ">
      
       <div id="title" className=" col-6 ml-4 pt-4  display-4 text-left height-100  mb-5  ">CSS COLOR PICKER </div>
-      <div id="title" className=" col ml-4 pt-5 pr-5 text-right height-100  mb-5  ">Double on any color to copy hex code</div>
+      <div id="title" className=" col ml-4 pt-5 pr-5 text-right height-100  mb-5  ">Double click on any color to copy hex code</div>
       </div>
        <div  className="row"><div className="col text-center mt-5 ">CSS LEVEL 1</div></div>
        
